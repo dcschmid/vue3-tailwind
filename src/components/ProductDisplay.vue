@@ -92,10 +92,3 @@ function updateVariant(index) {
     </div>
   </div>
 </template>
-
-<style scoped>
-.button.disabled {
-  background-color: #d8d8d8;
-  cursor: not-allowed;
-}
-</style>
