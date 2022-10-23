@@ -12,5 +12,8 @@
   "tommasonegri.vue.config.vetur.validation.script" : "Enable",
   "tommasonegri.vue.config.vetur.validation.style" : "Enable",
   "tommasonegri.vue.config.vetur.validation.template" : "Enable",
-  "tommasonegri.vue.config.vetur.validation.templateProps" : "Enable"
+  "tommasonegri.vue.config.vetur.validation.templateProps" : "Enable",
+  "workspace.preview_append_paths" : false,
+  "workspace.preview_type" : "custom",
+  "workspace.preview_url" : "http:\/\/127.0.0.1:4173"
 }
